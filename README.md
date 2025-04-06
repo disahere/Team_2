@@ -1,2 +1,11 @@
-# Team_2
-GD_1y_39_20_01_24 
+Team_2
+
+Name of game: 
+
+Members: 
+
+Position: - Coding,  - Design
+
+Concept: 
+
+Unity version: 
