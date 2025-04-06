@@ -4,7 +4,7 @@ Name of game:
 
 Members: 
 
-Position: - Coding,  - Design
+Position: 
 
 Concept: 
 
